@@ -1,5 +1,5 @@
 # Final Submission: Project Machine Learning Operations (MLOps) - Prediksi Penyakit Stroke
-Nama: Novan Nur Hidayat
+Nama: Novan Nur Hidayat.
 
 Username dicoding: fannof
 
